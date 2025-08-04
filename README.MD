@@ -1,11 +1,5 @@
 # 🌾 Crop Recommendation Using ANN
 
-<p align="center">
-  <img src="https://img.shields.io/github/repo-size/furqank73/Crop_Recommendation_Using_ANN?color=green&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/languages/count/furqank73/Crop_Recommendation_Using_ANN?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/last-commit/furqank73/Crop_Recommendation_Using_ANN?style=for-the-badge"/>
-</p>
-
 > Predict the most suitable crop to cultivate based on soil and environmental conditions using an Artificial Neural Network (ANN) model.
 
 ---
