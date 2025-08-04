@@ -5,6 +5,7 @@ import joblib
 from streamlit_extras.colored_header import colored_header
 from streamlit_extras.stylable_container import stylable_container
 import time
+import sklearn
 
 # Page configuration
 st.set_page_config(
